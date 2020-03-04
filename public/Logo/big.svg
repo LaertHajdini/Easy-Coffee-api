@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-custom_1);
+      }
+
+      .cls-2 {
+        fill: #3b414f;
+        stroke: #707070;
+      }
+
+      .cls-3, .cls-9 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #b3875c;
+        stroke-width: 10px;
+      }
+
+      .cls-4, .cls-7 {
+        fill: #f8f7f2;
+      }
+
+      .cls-4 {
+        font-size: 60px;
+      }
+
+      .cls-4, .cls-6 {
+        font-family: Heebo-Medium, Heebo;
+        font-weight: 500;
+        letter-spacing: 0.001em;
+      }
+
+      .cls-5 {
+        fill: #b3875c;
+      }
+
+      .cls-6 {
+        fill: #3b64a1;
+        font-size: 20px;
+      }
+
+      .cls-8 {
+        stroke: none;
+      }
+
+      .cls-10 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-custom_1">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="custom_1" data-name="custom – 1" class="cls-1">
+    <rect class="cls-10" width="512" height="512"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" class="cls-2">
+      <rect class="cls-8" width="512" height="512"/>
+      <rect class="cls-9" x="0.5" y="0.5" width="511" height="511"/>
+    </g>
+    <g id="Rectangle_2" data-name="Rectangle 2" class="cls-3" transform="translate(56 56)">
+      <rect class="cls-8" width="400" height="400"/>
+      <rect class="cls-9" x="5" y="5" width="390" height="390"/>
+    </g>
+    <text id="Easy_Coffee" data-name="Easy Coffee" class="cls-4" transform="translate(256 341)"><tspan x="-161.286" y="0">Easy Coffee</tspan></text>
+    <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-5" width="120" height="10" transform="translate(116 373)"/>
+    <text id="Making_life_easier" data-name="Making life easier" class="cls-6" transform="translate(337 385)"><tspan x="-79.823" y="0">Making life easier</tspan></text>
+    <g id="cup" transform="translate(184 82.35)">
+      <g id="Group_1" data-name="Group 1" transform="translate(0 50.65)">
+        <path id="Path_1" data-name="Path 1" class="cls-7" d="M114.452,64.134h-9.521V50.65H0V130c0,24.071,18.39,43.654,41,43.654H63.936c22.6,0,41-19.583,41-43.654v-2.934h9.521C130.745,127.063,144,112.948,144,95.6S130.744,64.134,114.452,64.134Zm0,44.959h-9.521V82.1h9.521c6.988,0,12.673,6.054,12.673,13.5S121.44,109.093,114.452,109.093Z" transform="translate(0 -50.65)"/>
+      </g>
+    </g>
+  </g>
+</svg>

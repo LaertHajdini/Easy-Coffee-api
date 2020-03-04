@@ -1,0 +1,30 @@
+[{
+    "name": "Espresso",
+    "price": "1 $",
+    "image": "espresso.jpg"
+},
+{
+    "name": "Cappuccino",
+    "price": "1.5 $",
+    "image": "cappuccino.jpg"
+},
+{
+    "name": "Café Latte",
+    "price": "1.5 $",
+    "image": "cafelatte.jpg"
+},
+{
+    "name": "Macchiato",
+    "price": "1.2 $",
+    "image": "macchiato.jpg"
+},
+{
+    "name": "Mochaccino",
+    "price": "1.4 $",
+    "image": "mochaccino.jpg"
+},
+{
+    "name": "Irish Coffee",
+    "price": "2.2 $",
+    "image": "irishcoffee.jpg"
+}]
